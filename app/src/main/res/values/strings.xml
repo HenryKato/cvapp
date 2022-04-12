@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="my_name"> HENRY KATO </string>
+    <string name="job_title"> Software Engineer II </string>
+
+    <!-- About me -->
+    <string name="master_school"> Maharishi International University </string>
+    <string name="master_skill"> MSc. Computer Science </string>
+    <string name="bachelor_school"> Makerere University Kampala </string>
+    <string name="bachelor_skill">  BSc. Mechanical Engineering </string>
+    <string name="about_me"> In High School I undertook Physics, Maths, and Chemistry.
+        I later joined Engineering School to pursue a
+        Bachelors degree in Mechanical Engineering. I am currently pursuing a Master of Science in Computer Science from Maharishi International University
+    </string>
+
+    <!-- Work Experience -->
+    <string name="company_1"> Luwero Industries Limited </string>
+    <string name="position_1"> Systems Engineer - Apprentice </string>
+    <string name="project_title_1"> Building a G-CODE Interpreter for a mini cnc milling machine </string>
+    <string name="desc_project_1"> Built with C++ </string>
+
+    <string name="company_2">  Kiira Motors Corporation</string>
+    <string name="position_2"> Software Engineer </string>
+    <string name="project_title_2"> Production Planning Application </string>
+    <string name="desc_project_2"> Built with React JS, Spring Framework </string>
+
+    <string name="company_3"> Uganda Airlines </string>
+    <string name="position_3"> Development Engineer </string>
+    <string name="project_title_3"> Flight Scheduling System </string>
+    <string name="desc_project_3"> Web application built with React JS </string>
+
+    <!-- Contact -->
+    <string name="phone"> +1 (641) 819-1530 </string>
+    <string name="email"> hkato1990@gmail.com </string>
+    <string name="website"> henrykato.com </string>
+    <string name="linkedIn_profile"> linkedIn/henrykato/ </string>
+
+    <!-- Home Page -->
+    <string name="honor_award"> About Me </string>
+    <string name="honor_title"> Career Goal </string>
+    <string name="honor_desc"> Highly motivated individual and an innovative software dev with strong soft skills, and attention to detail </string>
+
+    <string name="experience"> Skills Summary </string>
+    <string name="experience_year"> 5+ years </string>
+    <string name="experience_skill"> Java | Javascript | C++ | Spring boot | React JS | SQL | NoSQL | GraphQL| REST API </string>
+
+    <string name="personal">  Contact </string>
+    <string name="personal_title"> Biography</string>
+    <string name="personal_mobile"> +1 (641) 819-1530 </string>
+    <string name="personal_email"> henrykato62@gmail.com</string>
+
+</resources>

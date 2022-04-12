@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home_icon"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/work"
+        android:title="Work"
+        android:icon="@drawable/work_icon"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/contact"
+        android:title="Contact"
+        android:icon="@drawable/contact_icon"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/education"
+        android:title="Education"
+        android:icon="@drawable/educ_icon"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/skills"
+        android:title="Skills"
+        android:icon="@drawable/skills_icon"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/references"
+        android:title="References"
+        android:icon="@drawable/references_icon"
+        app:showAsAction="ifRoom"/>
+
+</menu>
